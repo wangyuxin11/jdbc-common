@@ -1,4 +1,4 @@
-package org.jdbc.common;
+package org.jdbc.common.base;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

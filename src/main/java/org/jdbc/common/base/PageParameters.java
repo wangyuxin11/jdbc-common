@@ -1,4 +1,4 @@
-package org.jdbc.common;
+package org.jdbc.common.base;
 
 /**
  * 分页参数

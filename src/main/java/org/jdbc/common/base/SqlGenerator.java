@@ -1,4 +1,4 @@
-package org.jdbc.common;
+package org.jdbc.common.base;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,10 +7,10 @@ import java.util.Map;
 
 public class SqlGenerator {
 	private String table; //表名
-	private Map<String, Object> objMap; //对象键�?�对
-	private List<Object> objs; //�?有对象�??
-	private List<String> names; //�?有名�?
-	private List<String> fieldNames; // 类成员变量名�?
+	private Map<String, Object> objMap; //对象键�?�对
+	private List<Object> objs; //�?有对象�??
+	private List<String> names; //�?有名�?
+	private List<String> fieldNames; // 类成员变量名�?
 
 	public SqlGenerator(String table) {
 		super();

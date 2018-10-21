@@ -1,4 +1,4 @@
-package org.jdbc.common;
+package org.jdbc.common.base;
 
 import java.lang.reflect.Field;
 import java.math.BigDecimal;
@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.List;
 
-import org.jdbc.common.DbColumn.ColumType;
+import org.jdbc.common.base.DbColumn.ColumType;
 import org.springframework.jdbc.core.RowMapper;
 
 

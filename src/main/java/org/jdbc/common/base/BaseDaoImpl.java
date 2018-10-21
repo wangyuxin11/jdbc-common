@@ -1,4 +1,4 @@
-package org.jdbc.common;
+package org.jdbc.common.base;
 
 import java.io.Serializable;
 import java.util.Arrays;

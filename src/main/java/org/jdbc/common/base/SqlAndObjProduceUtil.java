@@ -1,4 +1,4 @@
-package org.jdbc.common;
+package org.jdbc.common.base;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -32,7 +32,7 @@ public class SqlAndObjProduceUtil {
 	}
 
 	/**
-	 * 拼装SQL对应的参�?
+	 * 拼装SQL对应的参�?
 	 * 
 	 * @param filterMap
 	 * @param par
@@ -54,7 +54,7 @@ public class SqlAndObjProduceUtil {
 	}
 
 	/**
-	 * 拼装SQL对应的参�?
+	 * 拼装SQL对应的参�?
 	 * 
 	 * @param filterMap
 	 * @param par
